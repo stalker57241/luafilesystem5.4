@@ -24,3 +24,16 @@ luarocks install luafilesystem
 # Documentation
 
 Please check the at `docs/` for more information, also available at the [project website](https://lunarmodules.github.io/luafilesystem).
+
+# treeview update
+
+Special edition to use with 5.4 version (Somehow, lua5.4 isn't searching it in lua5.1 folders, at least in [`vis`](https://github.com/martanne/vis)
+
+Compiling:
+
+```sh
+# Building:
+make .
+# Installing:
+sudo make install
+```
