@@ -3,7 +3,7 @@
 # Default installation prefix
 PREFIX=/usr/local
 
-LUA_VERSION = 5.1
+LUA_VERSION = 5.4
 
 # System's libraries directory (where binary libraries are installed)
 LUA_LIBDIR= $(PREFIX)/lib/lua/$(LUA_VERSION)
